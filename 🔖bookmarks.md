@@ -12,4 +12,5 @@
 <br>
 
 # 📂Good Repo
+- **Google Generative-ai:** https://github.com/GoogleCloudPlatform/generative-ai
 - **balakreshnan:** https://github.com/balakreshnan/Samples2024/blob/main/AOAI/videowithCogcompvision.md
