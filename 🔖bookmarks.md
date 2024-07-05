@@ -1,5 +1,6 @@
 # 🔗URLS
 
+- **AZ Vector Search with reranker**: https://gist.github.com/pablocastro/90677135ddbd1f8a4783006f6e890edf
 - **Text to Video With Azure OpenAI:** https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/transforming-text-to-video-harnessing-the-power-of-azure-open-ai/ba-p/3837389
 - **Graph Database for PostgreSQL(Apache AGE):** https://age.apache.org/
 - **Summarize a video using Azure Open AI GPT 4 Vision and Computer vision models:** https://github.com/balakreshnan/Samples2024/blob/main/AOAI/videowithCogcompvision.md
