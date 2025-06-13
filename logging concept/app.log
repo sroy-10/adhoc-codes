@@ -1,0 +1,3 @@
+2025-06-13 13:29:48,217 - logger_4 - WARNING - This is a warning
+2025-06-13 13:29:48,218 - logger_4 - CRITICAL - This is a critical
+2025-06-13 13:32:38,185 - logger_5 - ERROR - This is appended message
